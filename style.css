@@ -1,0 +1,21 @@
+h1{
+    color: red;
+    font-size: 100px;
+    text-align:center ;
+    font-family: impact;
+    text-shadow: -7px 4px 3px rebeccapurple;
+    font-weight: normal;
+    font font-style: italic;
+}
+h2{
+    color: blueviolet;
+   font-size: 50px;
+   font-family:  serif;
+   text-shadow: 5px -2px 5px;
+   text-align: center; 
+}
+p{
+    text-align: center;
+font-size: xx-large;
+color: green;
+}
